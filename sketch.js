@@ -62,7 +62,7 @@ function setup() {
     block21=new Block2(700,225,30,30)
 
    block22=new Block2(610,195,30,30)
-  block23=new Block(640,195,30,30)
+   block23=new Block(640,195,30,30)
     block24=new Block2(670,195,30,30)
 
     block25=new Block2(640,165,30,30)
